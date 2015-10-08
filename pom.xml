@@ -65,7 +65,7 @@
 		<repository>
 			<id>holoeverywhereRepo</id>
 			<name>HoloEverywhere Repo</name>
-			<url>http://192.241.191.41/repo</url>
+			<url>http://m2.node.apptives.com</url>
 			<layout>default</layout>
 		</repository>
 	</repositories>
@@ -74,7 +74,7 @@
 		<repository>
 			<id>holoeverywhereRepo</id>
 			<name>HoloEverywhere Repo</name>
-			<url>http://192.241.191.41/repo</url>
+			<url>http://m2.node.apptives.com</url>
 			<uniqueVersion>true</uniqueVersion>
 		</repository>
 	</distributionManagement>

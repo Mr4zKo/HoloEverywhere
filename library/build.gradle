@@ -6,7 +6,7 @@ holoeverywhere {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.2.0'
+    compile 'com.android.support:support-v4:20.1.1'
     compile 'com.nineoldandroids:library:2.4.0'
 }
 

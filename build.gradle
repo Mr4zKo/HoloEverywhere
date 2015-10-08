@@ -13,6 +13,9 @@ allprojects {
     version = '2.1.1-SNAPSHOT'
 
     repositories {
+        maven {
+            url "http://m2.node.apptives.com"
+        }
         mavenCentral()
     }
 
